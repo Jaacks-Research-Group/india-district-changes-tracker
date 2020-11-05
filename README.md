@@ -1,4 +1,4 @@
-# india-district-changes-tracker
+# Indian Districts Boundary and Name Change Tracker
 This repository has been made for the purpose of tracking the name and boundary changes in the Indian districts from the year 2001 to 2020.
 
 **READ ME prior to exploring the master key for the years 2001-2020**
