@@ -28,7 +28,7 @@ B) Based on (A), the bolded parent districts are considered as the primary paren
 | **Andhra Pradesh** | **Nellore** | **556** | **Andhra Pradesh** | **S.P.S. Nellore** | **550** |
 | --- | --- | --- | --- | --- | --- |
 
-![alt text](https://github.com/Jaacks-Research-Group/india-district-changes-tracker/image.png?raw=true)
+![alt text](https://github.com/Jaacks-Research-Group/india-district-changes-tracker/blob/main/image.png?raw=true)
 
 **Summary of State-wise Changes**
 
