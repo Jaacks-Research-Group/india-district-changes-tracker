@@ -94,6 +94,7 @@
 | Bhiwani | Charkhi Dadri | 2016 |
 | Gurgaon | Mewat | 2005 |
 | Gurgaon | Palwal | 2008 |
+
 | **Old Name** | **New Name** | **Year of change** |
 | Mewat | Nuh | 2016 |
 
@@ -126,6 +127,7 @@
 | --- | --- | --- |
 | Kolar | Chikkaballapura | 2007 |
 | Gulbarga | Yadgir | 2010 |
+
 | **Old Name** | **New Name** | **Year of change** |
 | Gulbarga | Kalaburagi | 2014 |
 | Bijapur | Vijayapura | 2014 |
