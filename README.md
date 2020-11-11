@@ -269,3 +269,9 @@ Note: Rambai Nagar, Kanshiram Nagar, Mahamaya Nagar and JP Nagar were renamed as
 | Darjeeling | Kalimpong | 2017 |
 | Bardhaman | Purba Bardhaman | 2017 |
 | Bardhaman | Paschim Bardhaman | 2017 |
+
+**Contributors**
+**Lindsay Jaacks**
+**Divya Venkata Veluguri**
+**Anjali Shandilya**
+**Aayush Malik**
