@@ -70,7 +70,7 @@
 
 | **Parent District** | **New District** | **Year of formation** |
 | --- | --- | --- |
-| North East Delhi **East Delhi** | Shahdara | 2012 |
+| North East Delhi, **East Delhi** | Shahdara | 2012 |
 | South Delhi | South East Delhi | 2012 |
 
 **Gujarat**
@@ -78,12 +78,12 @@
 | **Parent District** | **New District** | **Year of formation** |
 | --- | --- | --- |
 | Banaskantha | Aravalli | 2013 |
-| **Ahmedabad** Bhavnagar | Botad | 2013 |
+| **Ahmedabad** , Bhavnagar | Botad | 2013 |
 | Vadodara | Chhota Udaipur | 2013 |
 | Jamnagar | Devbhumi Dwarka | 2013 |
 | Gir Somnath | Junagadh | 2013 |
 | Anand | Mahisagar | 2013 |
-| **Rajkot** SurendranagarJamnagar | Morbi | 2013 |
+| **Rajkot** , Surendranagar, Jamnagar | Morbi | 2013 |
 | Dang | Porbandar | 2011 |
 | Surat | Tapi | 2011 |
 
@@ -107,7 +107,7 @@
 | Anantnag | Kulgam | 2006 |
 | Doda | Ramban | 2006 |
 | Udhampur | Reasi | 2006 |
-| **Jammu** Kathua | Samba | 2006 |
+| **Jammu** , Kathua | Samba | 2006 |
 | Pulwama | Shopiyan | 2006 |
 
 **Jharkhand**
@@ -185,7 +185,7 @@
 | Firozpur | Fazilka | 2011 |
 | Gurdaspur | Pathankot | 2011 |
 | Amritsar | Tarn Taran | 2006 |
-| **Rupnagar** Patiala | SAS Nagar | 2006 |
+| **Rupnagar** , Patiala | SAS Nagar | 2006 |
 
 | **Old Name** | **New Name** | **Year of change** |
 | --- | --- | --- |
@@ -218,7 +218,7 @@
 | Karimnagar | Peddapalli | 2016 |
 | Karimnagar | Rajanna Sircilla | 2016 |
 | Medak | Sangareddy | 2016 |
-| **Medak** KarimnagarWarangal | Siddipet | 2016 |
+| **Medak** , Karimnagar, Warangal | Siddipet | 2016 |
 | Rangareddi | Medchal Malkajgiri | 2016 |
 | Rangareddi | Vikarabad | 2016 |
 | Mahbubnagar | Narayenpet | 2019 |
