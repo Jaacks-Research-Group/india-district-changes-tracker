@@ -271,7 +271,8 @@ Note: Rambai Nagar, Kanshiram Nagar, Mahamaya Nagar and JP Nagar were renamed as
 | Bardhaman | Paschim Bardhaman | 2017 |
 
 **Contributors**
-**Lindsay Jaacks**
-**Divya Venkata Veluguri**
-**Anjali Shandilya**
-**Aayush Malik**
+
+1. **Lindsay Jaacks**
+2. **Divya Venkata Veluguri**
+3. **Anjali Shandilya**
+4. **Aayush Malik**
