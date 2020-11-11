@@ -1,33 +1,5 @@
 **READ ME prior to exploring the master key for the years 2001-2020**
 
-1. Districts highlighted in **orange** are newly formed districts since the 2001 Census that were formed from 1 parent district. Prior to formation, these districts are assigned the code for the district from which they were formed.
-
-| Arunachal Pradesh | Lohit | 259 | Arunachal Pradesh | Anjaw | 260 |
-| --- | --- | --- | --- | --- | --- |
-
-1. Districts highlighted in **grey** are the parent districts of newly formed districts since the 2001 Census. These districts have the same code across all years, but their total land area has changed over time as child districts break off, and time-series data should be interpreted accordingly.
-
-| Assam | Kamrup | 321 | Assam | Kamrup | 321 |
-| --- | --- | --- | --- | --- | --- |
-
-1. A) Districts with **purple** font are newly formed districts since the 2001 Census that were formed from \&gt;1 parent district. Prior to formation, these districts are assigned the code for the parent district that contributed the most land area to their formation, or, if parents districts contributed equal land areas, the first alphabetically.
-
-| **Assam** | **Kamrup** | **321** | **Assam** | **Baksa** | **324** |
-| --- | --- | --- | --- | --- | --- |
-
-B) Based on (A), the bolded parent districts are considered as the primary parent districts. For example , for Baksa Kamrup is the primary parent district.
-
-| **Parent District** | **New District** |
-| --- | --- |
-| **Kamrup** | Baksa |
-| Barapet |
-| Nalbari |
-
-1. Districts with **green** fontare those with any official name changes since the 2001 Census.
-
-| **Andhra Pradesh** | **Nellore** | **556** | **Andhra Pradesh** | **S.P.S. Nellore** | **550** |
-| --- | --- | --- | --- | --- | --- |
-
 ![alt text](https://github.com/Jaacks-Research-Group/india-district-changes-tracker/blob/main/image.png?raw=true)
 
 **Summary of State-wise Changes**
