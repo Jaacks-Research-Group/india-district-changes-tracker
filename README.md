@@ -173,6 +173,13 @@
 | West Garo Hills | South West Garo Hills | 2011 |
 | West Khasi Hills | South West Khasi Hills | 2011 |
 
+**Mizoram**
+
+| **Parent District** | **New District** | **Year of formation** |
+| --- | --- | --- |
+| Lunglei | Hnahthial | 2019 |
+| Champhai | Khawzawl | 2019 |
+
 **Nagaland**
 
 | **Parent District** | **New District** | **Year of formation** |
