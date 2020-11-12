@@ -276,7 +276,7 @@ Note: Rambai Nagar, Kanshiram Nagar, Mahamaya Nagar and JP Nagar were renamed as
 
 **Contributors**
 
-1. **Lindsay Jaacks**
-2. **Divya Venkata Veluguri**
-3. **Anjali Shandilya**
-4. **Aayush Malik**
+1. **Anjali Shandilya**
+2. **Aayush Malik**
+3. **Divya Venkata Veluguri**
+4. **Lindsay Jaacks**
