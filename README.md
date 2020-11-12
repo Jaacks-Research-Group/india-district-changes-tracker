@@ -1,6 +1,6 @@
 **READ ME prior to exploring the master key for the years 2001-2020**
 
-![alt text](https://github.com/Jaacks-Research-Group/india-district-changes-tracker/blob/main/image.png?raw=true)
+![alt text](https://github.com/Jaacks-Research-Group/india-district-changes-tracker/blob/main/image.png)
 
 **Summary of State-wise Changes**
 
